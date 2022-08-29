@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+#body_addlibrary, #body_viewLibrary ,#body_updatelibrary{
+	background-image: url("images/bg_libr.jpg");
+	background-position: top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
